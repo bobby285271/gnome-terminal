@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Mon, 09 May 2022 13:22:04 +0000
+Source: gnome-terminal-build-deps
+Binary: gnome-terminal-build-deps
+Built-For-Profiles: noudeb
+Architecture: all
+Version: 3.44.0+mint1+vanessa
+Distribution: unstable
+Urgency: low
+Maintainer: Equivs Dummy Package Generator <root@mintbuild-mint21-amd64>
+Changed-By: Equivs Dummy Package Generator <root@mintbuild-mint21-amd64>
+Description:
+ gnome-terminal-build-deps - build-dependencies for gnome-terminal
+Changes:
+ gnome-terminal-build-deps (3.44.0+mint1+vanessa) unstable; urgency=low
+ .
+   * First version
+Checksums-Sha1:
+ afbb8dab76f66040d1ae48ab2fa9182aed2add27 2422 gnome-terminal-build-deps_3.44.0+mint1+vanessa_all.deb
+ ec2a28b6406d252615bcf07f803a9a97a71680dd 12852 gnome-terminal-build-deps_3.44.0+mint1+vanessa_amd64.buildinfo
+Checksums-Sha256:
+ b81a7bf55255050ce90c077d9f82ee3a6cb0de52b64a9795834e01334e411564 2422 gnome-terminal-build-deps_3.44.0+mint1+vanessa_all.deb
+ 865a040caa6c098a6388523af9200435d3697567925a7d401b6e7055dcd03c1e 12852 gnome-terminal-build-deps_3.44.0+mint1+vanessa_amd64.buildinfo
+Files:
+ 195693d12483df785a46e6fd71882b81 2422 devel optional gnome-terminal-build-deps_3.44.0+mint1+vanessa_all.deb
+ 9436238ab779beeb07a53de4a0d80628 12852 devel optional gnome-terminal-build-deps_3.44.0+mint1+vanessa_amd64.buildinfo
